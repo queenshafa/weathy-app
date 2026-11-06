@@ -1,0 +1,6 @@
+{
+  "name": "CuacaKita — Your Everyday Weather Companion",
+  "description": "Aplikasi informasi cuaca multifungsi modern terinspirasi BMKG dengan Clean Architecture, Riverpod, dan Open-Meteo Weather API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
